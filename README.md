@@ -1,6 +1,6 @@
 # flutter_app1
 
-Counter app week1.1.
+Counter app week1 newclone1.
 
 ## Getting Started
 
