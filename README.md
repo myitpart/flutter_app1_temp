@@ -1,6 +1,6 @@
 # flutter_app1
 
-Counter app week1 newclone to i9
+Counter app week1 newclone to i9 mc
 
 ## Getting Started
 
